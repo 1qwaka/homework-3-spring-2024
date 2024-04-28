@@ -33,14 +33,14 @@
 ![](help.png)
 - при переходе на https://ads.vk.com/help открывается страница справки
 - на странице справки присутствуют и ведут на соответствующую страницу карточки:
-    - Авторизация
-    - Как настроить рекламу
-    - Инструменты рекламы
-    - Статистика и финансы
-    - Документы
-    - Упрощенный кабинет
-    - FAQ
-    - Кабинет партнера
+    - Авторизация (https://ads.vk.com/help/categories/authorization)
+    - Как настроить рекламу (https://ads.vk.com/help/categories/general)
+    - Инструменты рекламы (https://ads.vk.com/help/categories/features)
+    - Статистика и финансы (https://ads.vk.com/help/categories/statistics)
+    - Документы (https://ads.vk.com/help/categories/documents)
+    - Упрощенный кабинет (https://ads.vk.com/help/categories/mini_ads)
+    - FAQ (https://ads.vk.com/help/categories/faq)
+    - Кабинет партнера (https://ads.vk.com/help/categories/partner)
 
 ### Поиск на главной
 ![](help-search.png)
@@ -51,13 +51,13 @@
 ![](help-search-page.png)
 - При переходе на https://ads.vk.com/help/search?search=Статистика открывается страница поиска с текстом "Мы кое-что нашли для вас"
     - На странице поиска по слову "Статистика" присуствуют следующие ссылки, каждая из которых ведет на соответствующую статью:
-        - Дашборд
-        - Агентствам: статистика по клиентам
-        - Статистика из приложений для веб-кампаний
-        - Атрибуция конверсий для сайтов
-        - Советы по запуску кампаний в Дзене
-        - Карточки приложений
-        - Статистика по монетизации
+        - Дашборд (https://ads.vk.com/help/articles/dashboard)
+        - Агентствам: статистика по клиентам (https://ads.vk.com/help/articles/agency_statistics)
+        - Статистика из приложений для веб-кампаний (https://ads.vk.com/help/articles/statistics_web2app)
+        - Атрибуция конверсий для сайтов (https://ads.vk.com/help/articles/site_attribution)
+        - Советы по запуску кампаний в Дзене (https://ads.vk.com/help/articles/dzen_tips)
+        - Карточки приложений (https://ads.vk.com/help/articles/apps)
+        - Статистика по монетизации (https://ads.vk.com/help/articles/partner_statistics)
 
 #### Поисковая строка на странице поиска
 ![](help-search-page-search-list.png)
